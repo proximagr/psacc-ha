@@ -15,7 +15,7 @@
   "ports": {
     "5000/tcp": null
     },
-  "image": "proximagr/psa_car_controller",
+  "image": "flobz/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 5000,
